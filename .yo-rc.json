@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "greengrowapps",
+      "authorName": "Green Grow Apps",
+      "authorEmail": "info@greengrowapps.com",
+      "authorUrl": "https://greengrowapps.com"
+    }
+  }
+}
