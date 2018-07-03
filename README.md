@@ -6,6 +6,8 @@
 
 This is a [JHipster](http://jhipster.github.io/) module, that is meant to be used in a JHipster application.
 
+This module adds the needed extra code to be able to use the Social Login functionality from the [android-jhi](https://github.com/greengrowapps/generator-android-jhi) generator. 
+
 # Prerequisites
 
 As this is a [JHipster](http://jhipster.github.io/) module, we expect you have JHipster and its related tools already installed:
@@ -43,6 +45,20 @@ npm update -g generator-jhipster-social-login-api
 ```
 
 # Usage
+
+Inside your jhipster project folder run
+
+```bash
+yo jhipster-social-login-api
+```
+
+Then create your [Google](https://console.developers.google.com/) and/or [Facebook](https://developers.facebook.com/) credentials
+
+For Google you will need three. Web, Android and iOS
+
+Choose the Web credential and download de json file. Replace the "googlecredentials.json" inside the resources folder.
+
+Follow the instructions on [android-jhi](https://github.com/greengrowapps/generator-android-jhi) to configure the app
 
 # License
 
