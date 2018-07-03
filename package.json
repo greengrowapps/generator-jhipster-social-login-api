@@ -1,11 +1,13 @@
 {
   "name": "generator-jhipster-social-login-api",
-  "version": "0.0.0",
-  "description": "Adds social login api calls to work with native Android and iOS apps",
+  "version": "0.0.1",
+  "description": "Adds social login api calls to work with native Android and iOS apps from android-jhi generator",
   "keywords": [
     "yeoman-generator",
     "jhipster-module",
-    "jhipster-5"
+    "jhipster-5",
+    "social-login",
+    "android-jhi"
   ],
   "homepage": "https://github.com/greengrowapps/generator-jhipster-social-login-api",
   "author": {
